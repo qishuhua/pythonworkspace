@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Swainson_Warbler_0008_794886.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\menue\chengying-1-bird-1\JPEGImages\Swainson_Warbler_0008_794886.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>418</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>234</ymin>
+			<xmax>265</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

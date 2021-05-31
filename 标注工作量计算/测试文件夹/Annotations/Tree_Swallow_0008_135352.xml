@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Tree_Swallow_0008_135352.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\menue\chengying-1-bird-1\JPEGImages\Tree_Swallow_0008_135352.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>171</ymin>
+			<xmax>282</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

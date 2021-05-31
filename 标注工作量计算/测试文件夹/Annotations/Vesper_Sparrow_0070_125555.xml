@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Vesper_Sparrow_0070_125555.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\menue\chengying-1-bird-1\JPEGImages\Vesper_Sparrow_0070_125555.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>357</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>182</ymin>
+			<xmax>215</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

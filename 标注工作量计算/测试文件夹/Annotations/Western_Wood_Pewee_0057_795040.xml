@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Western_Wood_Pewee_0057_795040.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\menue\chengying-1-bird-1\JPEGImages\Western_Wood_Pewee_0057_795040.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>117</ymin>
+			<xmax>193</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

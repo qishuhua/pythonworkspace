@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Vermilion_Flycatcher_0045_42219.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\menue\chengying-1-bird-1\JPEGImages\Vermilion_Flycatcher_0045_42219.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>41</ymin>
+			<xmax>484</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

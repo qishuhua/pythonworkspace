@@ -1,0 +1,3 @@
+2020-06-10 15:12:39 INFO [46] logger.info
+2020-06-10 15:12:39 ERROR [47]  logger.error
+2020-06-10 15:12:39 DEBUG [48]  logger.debug
